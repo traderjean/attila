@@ -26,11 +26,19 @@ $color-social-twitter: #3ea9dd;
 $color-social-facebook: #3c5a98;
 $color-social-linkedin: #0e76a8;
 $color-social-mail: #2997ee;
+
 $color-text-primary: $color-neutral-15;
-$color-text-primary-dark: $color-neutral-90;
+$color-text-primary-dark: $color-neutral-15;
+//$color-text-primary-dark: $color-neutral-90;
+
 $color-text-secondary: hsb(215, 8, 49); // special value for accessibility
-$color-text-secondary-dark: $color-neutral-60;
+$color-text-secondary-dark: hsb(215, 8, 49); // special value for accessibility
+//$color-text-secondary-dark: $color-neutral-60;
+
 $color-border: $color-neutral-90;
 $color-background: $color-neutral-98;
-$color-border-dark: $color-neutral-25;
-$color-background-dark: $color-neutral-15;
+
+$color-border-dark: $color-neutral-90;
+$color-background-dark: $color-neutral-98;
+//$color-border-dark: $color-neutral-25;
+//$color-background-dark: $color-neutral-15;
